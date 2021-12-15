@@ -1,3 +1,3 @@
-"Welcome to our second slide!"
+"Welcome to our third slide!"
 
-Use the left arrow to go back!!!
+Use the right arrow to go back!!!
